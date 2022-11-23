@@ -15,7 +15,7 @@ Diego Pacheco(https://diegopacheco.github.io/) is an experienced Software Archit
 <tr>
 <p><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" alt=""  width="35" height="28" /><a href="https://tinyurl.com/diegopacheco"> Diego Pacheco Youtube Channel</a></p>
 <p><img src="https://raw.githubusercontent.com/diegopacheco/diegopacheco.github.io/master/images/blogger-logo.png" alt="" width="35" height="28" /><a href="http://diego-pacheco.blogspot.com.br/"> Diego Pacheco Tech Blog</a></p>
-<p><img src="https://raw.githubusercontent.com/diegopacheco/diegopacheco.github.io/master/images/medium_logo.png" alt="" width="35" height="28" /><a href="https://medium.com/@diego_pacheco">@diego_pacheco</a></p>
+<p><img src="https://raw.githubusercontent.com/diegopacheco/diegopacheco.github.io/master/images/medium_logo.png" alt="" width="35" height="28" /><a href="https://diego-pacheco.medium.com/">@diego_pacheco</a></p>
 </tr>
 </table>
 
