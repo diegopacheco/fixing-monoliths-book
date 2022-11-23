@@ -14,7 +14,7 @@ public class TaxProcessor {
 
     public String getDayOfTheWeek(int year,int month,int day){
         Calendar cal = getCalendar();
-        cal.set(year, month, day, 0, 0);
+        cal.set(year, month -1, day, 0, 0);
         return switch(cal.get(Calendar.DAY_OF_WEEK)){
             case 1 -> "Sunday";
             case 2 -> "Monday";
