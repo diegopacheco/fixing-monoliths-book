@@ -1,10 +1,10 @@
 # fixing-monoliths-book
 
-This is the Code repository for Fixing Monoliths book.
+This is the Code repository for the Fixing Monoliths book.
 
 ### About the author
 
-Diego Pacheco(https://diegopacheco.github.io/) is an experienced Software Architect, DevOps practitioner, Agile Coach with more than +20 years of solid experience. He has led architecture teams using Open Source solutions such as Java, Scala, Rust, Go, AWS Cloud, GCP, Akka, Cassandra, Redis, ActiveMQ, Spring, Sring Boot, NetflixOSS Stack: Simian Army, RxJava, Karyon, Dynomite, Eureka, and Ribbon on Big Customers in Brazil, London, Barcelona, India, and the USA(Silicon Valley and Mid-west). Diego has a passion for functional programming and is currently working as a Principal Software Architect with AWS, Kubernetes/EKS, Rust, Scala/Akka, and NetflixOSS. During his free time he enjoys playing guitar, gaming, and blogging. You can check out his blog http://diego-pacheco.blogspot.com.br/.
+Diego Pacheco(https://diegopacheco.github.io/) is an experienced Software Architect, DevOps practitioner, and Agile Coach with more than +20 years of solid experience. He has led architecture teams using Open Source solutions such as Java, Scala, Rust, Go, AWS Cloud, GCP, Akka, Cassandra, Redis, ActiveMQ, Spring, Sring Boot, NetflixOSS Stack: Simian Army, RxJava, Karyon, Dynomite, Eureka, and Ribbon on Big Customers in Brazil, London, Barcelona, India, and the USA(Silicon Valley and Mid-west). Diego has a passion for functional programming and is currently working as a Principal Software Architect with AWS, Kubernetes/EKS, Rust, Scala/Akka, and NetflixOSS. During his free time, he enjoys playing guitar, gaming, and blogging. You can check out his blog http://diego-pacheco.blogspot.com.br/.
 
 <table>
 <tr>
@@ -19,9 +19,17 @@ Diego Pacheco(https://diegopacheco.github.io/) is an experienced Software Archit
 </tr>
 </table>
 
+### About the co-author
+
+Sam Sgro TODO
+
+### About the Tech Reviwer
+
+Garen TODO
+
 ### About the repository
 
-Code samples here are manily in Java. 
+Code samples here are mainly in Java. 
 
 ### Disclaimer
-You wont find a whole complete application end-2-end here. The code samples are a way to examplain, patterns and anti-patterns in sense of design and architecture. There is no goal to have a fully functionally application or service whatsoever.
+You won't find a whole complete application end-2-end here. The code samples are a way to explain, patterns and anti-patterns in the sense of design and architecture. There is no goal to have a fully functional application or service whatsoever.
