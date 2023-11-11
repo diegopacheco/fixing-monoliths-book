@@ -1,6 +1,7 @@
-# fixing-monoliths-book
+# Principles of Software Architecture Modernization
+Delivering engineering excellence with the art of fixing microservices, monoliths, and distributed monoliths. <br/>
 
-This is the Code repository for the Fixing Monoliths book.
+This is the Code repository for the Fixing Monoliths book. <br/>
 
 ### About the author
 
