@@ -3,6 +3,11 @@ Delivering engineering excellence with the art of fixing microservices, monolith
 
 This is the Code repository for the book. <br/>
 
+### How to Buy? 
+
+PBP: https://bpbonline.com/products/principles-of-software-architecture-modernization
+Amazon: Soon
+
 ### About the author
 
 Diego Pacheco(https://diegopacheco.github.io/) is a seasoned, experienced Brazilian software architect,
@@ -82,6 +87,7 @@ monoliths, and distributed monoliths at scale in the cloud.
 ### About the repository
 
 Code samples here are mainly in Java. 
+
 
 ### Disclaimer
 
