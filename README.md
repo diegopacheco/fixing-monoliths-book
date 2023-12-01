@@ -5,7 +5,7 @@ This is the Code repository for the book. <br/>
 
 ### How to Buy? 
 
-PBP: https://bpbonline.com/products/principles-of-software-architecture-modernization
+BPB: https://bpbonline.com/products/principles-of-software-architecture-modernization <BR/>
 Amazon: Soon
 
 ### About the author
