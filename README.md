@@ -5,8 +5,8 @@ This is the Code repository for the book. <br/>
 
 ### How to Buy? 
 
-BPB: https://bpbonline.com/products/principles-of-software-architecture-modernization <BR/>
-Amazon: Soon
+BPB: https://bpbonline.com/products/principles-of-software-architecture-modernization <BR/><BR/>
+Amazon: https://www.amazon.com/Principles-Software-Architecture-Modernization-microservices-ebook/dp/B0CP95X2GV/ref=sr_1_1?crid=3JNWE3JNJDR6&keywords=Principles+of+Software+Architecture+Modernization&qid=1701557697&sprefix=principles+of+software+architecture+modernization%2Caps%2C139&sr=8-1
 
 ### About the author
 
@@ -14,14 +14,14 @@ Diego Pacheco(https://diegopacheco.github.io/) is a seasoned, experienced Brazil
 author, speaker, technology mentor, and DevOps practitioner with more than 20+ years of
 solid experience. I've been building teams and mentoring people for more than a decade,
 teaching soft skills and technology daily. Selling projects, hiring, building solutions,
-running coding dojos, long retrospectives, weekly 1:1s, design sessions, code reviews
-, and my favorite debate club: architects community of practices and development groups
+running coding dojos, long retrospectives, weekly 1:1s, design sessions, code reviews, 
+and my favorite debate club: architects community of practices and development groups
 for more than a decade. Live, breathe, and practice real agile since 2005, coaching teams
-have helped many companies to discover better ways to work using Lean, Agile principles and
+have helped many companies to discover better ways to work using Lean, Agile principles, and
 methods like XP and DTA. I've led complex architecture teams and engineering teams at
 scale guided by SOA principles, using a variety of open-source languages like Java, Scala,
 Rust, Go, Python, Groovy, JavaScript, and TypeScript, cloud providers like AWS Cloud and
-Google GCP, amazing solutions like Akka, ActiveMQ, Netty, Tomcat and Gatling, NoSQL
+Google GCP, amazing solutions like Akka, ActiveMQ, Netty, Tomcat, and Gatling, NoSQL
 databases like Cassandra, Redis, Elasticache Redis, Elasticsearch, Opensearch, RabbitMQ,
 libraries like Spring, Hibernate, and Spring Boot and also the NetflixOSS Stack: Simian
 Army, RxJava, Karyon, Dynomite, Eureka, and Ribbon. I’ve implemented complex security
